@@ -50,6 +50,7 @@ def main(argv):
                 (model, vectorizer, stats), sec = build_and_evaluate(X,y, classifier=classifier(hidden_layer_sizes=hidden_layers), numtests=int(tests))
                 stat_model = {}
                 stat_model['model_type'] = 'nn'
+                stat_model['layers'] = [i, j, k]
                 stat_model['test_iterations'] = tests
                 stat_model['total_samples'] = numSamples
                 stat_model['total_tools'] = numTools
