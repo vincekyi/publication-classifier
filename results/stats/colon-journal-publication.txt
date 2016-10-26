@@ -1,0 +1,101 @@
+*************** Colon in title ***************
+Colon in tools:                                   316/481
+Colon in nontools:                                106/731
+*************** Type of journal ***************
+bmc bioinformatics                                274
+	Tools:                       157/481
+	Nontools:                    117/731
+bioinformatics (oxford, england)                  279
+	Tools:                       253/481
+	Nontools:                    26/731
+plos computational biology                        315
+	Tools:                       60/481
+	Nontools:                    255/731
+nature biotechnology                              344
+	Tools:                       11/481
+	Nontools:                    333/731
+*************** Type of publication ***************
+clinical trial, phase i                           1
+	Tools:                       1/481
+	Nontools:                    0/731
+research support, u.s. gov't, p.h.s.              1
+	Tools:                       0/481
+	Nontools:                    1/731
+research support, american recovery and reinvestment act1
+	Tools:                       0/481
+	Nontools:                    1/731
+webcasts                                          1
+	Tools:                       0/481
+	Nontools:                    1/731
+retraction of publication                         1
+	Tools:                       0/481
+	Nontools:                    1/731
+clinical trial, phase iii                         1
+	Tools:                       0/481
+	Nontools:                    1/731
+case reports                                      1
+	Tools:                       0/481
+	Nontools:                    1/731
+congresses                                        2
+	Tools:                       0/481
+	Nontools:                    2/731
+randomized controlled trial                       2
+	Tools:                       2/481
+	Nontools:                    0/731
+portraits                                         2
+	Tools:                       0/481
+	Nontools:                    2/731
+interview                                         2
+	Tools:                       0/481
+	Nontools:                    2/731
+validation studies                                3
+	Tools:                       1/481
+	Nontools:                    2/731
+introductory journal article                      3
+	Tools:                       0/481
+	Nontools:                    3/731
+biography                                         4
+	Tools:                       0/481
+	Nontools:                    4/731
+historical article                                5
+	Tools:                       0/481
+	Nontools:                    5/731
+research support, n.i.h., intramural              9
+	Tools:                       2/481
+	Nontools:                    7/731
+evaluation studies                                10
+	Tools:                       6/481
+	Nontools:                    4/731
+review                                            13
+	Tools:                       0/481
+	Nontools:                    13/731
+published erratum                                 14
+	Tools:                       0/481
+	Nontools:                    14/731
+comparative study                                 16
+	Tools:                       8/481
+	Nontools:                    8/731
+editorial                                         19
+	Tools:                       0/481
+	Nontools:                    19/731
+letter                                            56
+	Tools:                       15/481
+	Nontools:                    41/731
+news                                              74
+	Tools:                       0/481
+	Nontools:                    74/731
+research support, u.s. gov't, non-p.h.s.          82
+	Tools:                       39/481
+	Nontools:                    43/731
+comment                                           106
+	Tools:                       0/481
+	Nontools:                    106/731
+research support, n.i.h., extramural              165
+	Tools:                       66/481
+	Nontools:                    99/731
+research support, non-u.s. gov't                  402
+	Tools:                       199/481
+	Nontools:                    203/731
+journal article                                   1042
+	Tools:                       466/481
+	Nontools:                    576/731

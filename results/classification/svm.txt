@@ -1,0 +1,18 @@
+Model: svm , iterations: 1000 , test iterations: 2000
+Building for evaluation
+******Results after 2000 iterations*****
+accuracy        0.842608359133
+f1              0.802991532385
+precision       0.80538586333
+recall          0.802295522569
+Classification Report:
+
+
+             precision    recall  f1-score   support
+
+    Nontool       0.92      0.93      0.92       193
+       Tool       0.89      0.88      0.88       130
+
+avg / total       0.91      0.91      0.91       323
+
+Evaluation model fit in 330.018 seconds

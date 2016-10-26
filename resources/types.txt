@@ -1,0 +1,6 @@
+comment
+news
+editorial
+published erratum
+historical article
+biography

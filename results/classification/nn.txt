@@ -1,0 +1,16 @@
+Model: nn , iterations: 200 , test iterations: 10
+Building for evaluation
+******Results after 10 iterations*****
+accuracy        0.844855967078
+f1              0.79855551458
+precision       0.813291376738
+recall          0.798220708317
+Evaluation model fit in 415.944 seconds
+Building complete model and saving ...
+******Results after 10 iterations*****
+accuracy        0.861728395062
+f1              0.83135096577
+precision       0.820963073647
+recall          0.849066444941
+Complete model fit in 380.831 seconds
+Model written out to ../results/

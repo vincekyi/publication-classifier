@@ -1,0 +1,316 @@
+abbreviations
+abstracts
+academic dissertations
+account books
+addresses
+advertisements
+almanacs
+anecdotes
+animation
+annual reports
+aphorisms and proverbs
+architectural drawings
+atlases
+autobiography
+bibliography
+biobibliography
+biography
+blogs
+book illustrations
+book reviews
+bookplates
+broadsides
+caricatures
+cartoons
+case reports
+catalogs
+charts
+chronology
+classical article
+clinical conference
+clinical study
+clinical trial
+clinical trial, phase i
+clinical trial, phase ii
+clinical trial, phase iii
+clinical trial, phase iv
+collected correspondence
+collected works
+collections
+comment
+comparative study
+congresses
+consensus development conference
+consensus development conference, nih
+controlled clinical trial
+cookbooks
+corrected and republished article
+database
+dataset
+diaries
+dictionary
+directory
+documentaries and factual films
+drawings
+duplicate publication
+editorial
+electronic supplementary materials
+encyclopedias
+english abstract
+ephemera
+essays
+eulogies
+evaluation studies
+examination questions
+exhibitions
+festschrift
+fictional works
+forms
+formularies
+funeral sermons
+government publications
+graphic novels
+guidebooks
+guideline
+handbooks
+herbals
+historical article
+humor
+incunabula
+indexes
+instructional films and videos
+interactive tutorial
+interview
+introductory journal article
+journal article
+juvenile literature
+laboratory manuals
+lecture notes
+lectures
+legal cases
+legislation
+letter
+manuscripts
+maps
+meeting abstracts
+meta-analysis
+monograph
+multicenter study
+news
+newspaper article
+nurses' instruction
+obituary
+observational study
+outlines
+overall
+patents
+patient education handout
+periodical index
+periodicals
+personal narratives
+pharmacopoeias
+photographs
+phrases
+pictorial works
+poetry
+popular works
+portraits
+postcards
+posters
+practice guideline
+pragmatic clinical trial
+price lists
+problems and exercises
+programmed instruction
+programs
+prospectuses
+public service announcements
+publication components
+publication formats
+published erratum
+randomized controlled trial
+research support, american recovery and reinvestment act
+research support, n.i.h., extramural
+research support, n.i.h., intramural
+research support, non-u.s. gov't
+research support, u.s. gov't, non-p.h.s.
+research support, u.s. gov't, p.h.s.
+research support, u.s. government
+resource guides
+retracted publication
+retraction of publication
+review
+scientific integrity review
+sermons
+statistics
+study characteristics
+support of research
+tables
+technical report
+terminology
+textbooks
+twin study
+unedited footage
+union lists
+unpublished works
+validation studies
+video-audio media
+webcasts
+abbreviations
+abstracts
+academic dissertations
+account books
+addresses
+advertisements
+almanacs
+anecdotes
+animation
+annual reports
+aphorisms and proverbs
+architectural drawings
+atlases
+autobiography
+bibliography
+biobibliography
+biography
+blogs
+book illustrations
+book reviews
+bookplates
+broadsides
+caricatures
+cartoons
+case reports
+catalogs
+charts
+chronology
+classical article
+clinical conference
+clinical study
+clinical trial
+clinical trial, phase i
+clinical trial, phase ii
+clinical trial, phase iii
+clinical trial, phase iv
+collected correspondence
+collected works
+collections
+comment
+comparative study
+congresses
+consensus development conference
+consensus development conference, nih
+controlled clinical trial
+cookbooks
+corrected and republished article
+database
+dataset
+diaries
+dictionary
+directory
+documentaries and factual films
+drawings
+duplicate publication
+editorial
+electronic supplementary materials
+encyclopedias
+english abstract
+ephemera
+essays
+eulogies
+evaluation studies
+examination questions
+exhibitions
+festschrift
+fictional works
+forms
+formularies
+funeral sermons
+government publications
+graphic novels
+guidebooks
+guideline
+handbooks
+herbals
+historical article
+humor
+incunabula
+indexes
+instructional films and videos
+interactive tutorial
+interview
+introductory journal article
+journal article
+juvenile literature
+laboratory manuals
+lecture notes
+lectures
+legal cases
+legislation
+letter
+manuscripts
+maps
+meeting abstracts
+meta-analysis
+monograph
+multicenter study
+news
+newspaper article
+nurses' instruction
+obituary
+observational study
+outlines
+overall
+patents
+patient education handout
+periodical index
+periodicals
+personal narratives
+pharmacopoeias
+photographs
+phrases
+pictorial works
+poetry
+popular works
+portraits
+postcards
+posters
+practice guideline
+pragmatic clinical trial
+price lists
+problems and exercises
+programmed instruction
+programs
+prospectuses
+public service announcements
+publication components
+publication formats
+published erratum
+randomized controlled trial
+research support, american recovery and reinvestment act
+research support, n.i.h., extramural
+research support, n.i.h., intramural
+research support, non-u.s. gov't
+research support, u.s. gov't, non-p.h.s.
+research support, u.s. gov't, p.h.s.
+research support, u.s. government
+resource guides
+retracted publication
+retraction of publication
+review
+scientific integrity review
+sermons
+statistics
+study characteristics
+support of research
+tables
+technical report
+terminology
+textbooks
+twin study
+unedited footage
+union lists
+unpublished works
+validation studies
+video-audio media
+webcasts

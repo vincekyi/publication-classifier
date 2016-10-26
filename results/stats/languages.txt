@@ -1,0 +1,91 @@
+*************** Programming Language in abstract ***************
+php                                               1
+	Tools:                       1/481
+	Non Tools:                   0/731
+fantom                                            1
+	Tools:                       1/481
+	Non Tools:                   0/731
+mantis                                            1
+	Tools:                       1/481
+	Non Tools:                   0/731
+html                                              1
+	Tools:                       1/481
+	Non Tools:                   0/731
+scratch                                           1
+	Tools:                       1/481
+	Non Tools:                   0/731
+falcon                                            1
+	Tools:                       1/481
+	Non Tools:                   0/731
+logo                                              1
+	Tools:                       1/481
+	Non Tools:                   0/731
+lasso                                             2
+	Tools:                       2/481
+	Non Tools:                   0/731
+abc                                               2
+	Tools:                       2/481
+	Non Tools:                   0/731
+beta                                              3
+	Tools:                       2/481
+	Non Tools:                   1/731
+xml                                               3
+	Tools:                       3/481
+	Non Tools:                   0/731
+inform                                            3
+	Tools:                       0/481
+	Non Tools:                   3/731
+seed                                              4
+	Tools:                       2/481
+	Non Tools:                   2/731
+avenue                                            4
+	Tools:                       1/481
+	Non Tools:                   3/731
+javascript                                        7
+	Tools:                       7/481
+	Non Tools:                   0/731
+java                                              8
+	Tools:                       8/481
+	Non Tools:                   0/731
+atlas                                             9
+	Tools:                       8/481
+	Non Tools:                   1/731
+scheme                                            9
+	Tools:                       7/481
+	Non Tools:                   2/731
+perl                                              10
+	Tools:                       10/481
+	Non Tools:                   0/731
+basic                                             12
+	Tools:                       7/481
+	Non Tools:                   5/731
+matlab                                            12
+	Tools:                       12/481
+	Non Tools:                   0/731
+signal                                            18
+	Tools:                       14/481
+	Non Tools:                   4/731
+factor                                            20
+	Tools:                       15/481
+	Non Tools:                   5/731
+natural                                           20
+	Tools:                       12/481
+	Non Tools:                   8/731
+assembly                                          21
+	Tools:                       17/481
+	Non Tools:                   4/731
+python                                            27
+	Tools:                       27/481
+	Non Tools:                   0/731
+processing                                        36
+	Tools:                       32/481
+	Non Tools:                   4/731
+c                                                 43
+	Tools:                       39/481
+	Non Tools:                   4/731
+r                                                 74
+	Tools:                       67/481
+	Non Tools:                   7/731
+                                                  1020
+	Tools:                       479/481
+	Non Tools:                   541/731

@@ -1,0 +1,55 @@
+(100, 100)
+Building for evaluation
+******Results after 10 iterations*****
+accuracy        0.871193415638
+f1              0.832646861608
+precision       0.847925546419
+recall          0.821935529962
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.90      0.96      0.93       151
+       Tool       0.93      0.82      0.87        92
+
+
+avg / total       0.91      0.91      0.90       243
+
+Evaluation model fit in 56.371 seconds
+Saving best model...
+(100, 200)
+Building for evaluation
+******Results after 10 iterations*****
+accuracy        0.866666666667
+f1              0.841262022856
+precision       0.799858051741
+recall          0.888864264228
+Classification Report:
+precision    recall  f1-score   support
+
+Nontool       0.94      0.86      0.90       145
+Tool       0.81      0.92      0.86        98
+
+avg / total       0.89      0.88      0.88       243
+
+Evaluation model fit in 56.931 seconds
+Saving best model...
+(100, 300)
+Building for evaluation
+******Results after 10 iterations*****
+accuracy        0.867901234568
+f1              0.837819431561
+
+precision       0.786749775409
+recall          0.901176174795
+Classification Report:
+
+precision    recall  f1-score   support
+
+Nontool       0.94      0.89      0.91       152
+Tool       0.83      0.90      0.86        91
+
+avg / total       0.90      0.89      0.89       243
+
+Evaluation model fit in 54.307 seconds
+Saving best model...

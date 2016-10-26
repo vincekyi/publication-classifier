@@ -1,0 +1,104 @@
+100,100,100******Results after 20 iterations*****
+accuracy        0.85092879257
+f1              0.830129461664
+precision       0.771125506755
+recall          0.899883450884
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.95      0.86      0.90       208
+       Tool       0.79      0.92      0.85       115
+
+avg / total       0.89      0.88      0.88       323
+
+Evaluation model fit in 142.472 seconds
+Saving best model...
+Building for evaluation
+100,200,100******Results after 20 iterations*****
+accuracy        0.840092879257
+f1              0.818304761082
+precision       0.747462957509
+recall          0.905912079268
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.91      0.87      0.89       180
+       Tool       0.85      0.89      0.87       143
+
+avg / total       0.88      0.88      0.88       323
+
+Evaluation model fit in 137.722 seconds
+100,200,200******Results after 20 iterations*****
+accuracy        0.830959752322
+f1              0.811030972717
+precision       0.726176345986
+recall          0.919743596758
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.94      0.83      0.88       203
+       Tool       0.76      0.91      0.83       120
+
+avg / total       0.87      0.86      0.86       323
+
+Evaluation model fit in 138.967 seconds
+Saving best model...
+Building for evaluation
+200,200,200******Results after 20 iterations*****
+accuracy        0.842569659443
+f1              0.82526029317
+precision       0.748311260217
+recall          0.921094752646
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.97      0.82      0.89       202
+       Tool       0.76      0.96      0.85       121
+
+avg / total       0.89      0.87      0.87       323
+
+Evaluation model fit in 296.324 seconds
+Saving best model...
+Building for evaluation
+300,200,200******Results after 20 iterations*****
+accuracy        0.837306501548
+f1              0.816224850214
+precision       0.73886085752
+recall          0.914081025205
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.94      0.82      0.88       184
+       Tool       0.80      0.93      0.86       139
+
+avg / total       0.88      0.87      0.87       323
+
+Evaluation model fit in 420.394 seconds
+Saving best model...
+Building for evaluation
+300,300,300******Results after 20 iterations*****
+accuracy        0.838235294118
+f1              0.813397927435
+precision       0.732668043828
+recall          0.915841130452
+
+Classification Report:
+
+             precision    recall  f1-score   support
+
+    Nontool       0.97      0.87      0.91       197
+       Tool       0.82      0.95      0.88       126
+
+avg / total       0.91      0.90      0.90       323
+
+Evaluation model fit in 398.540 seconds

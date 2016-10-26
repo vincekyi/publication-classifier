@@ -1,0 +1,18 @@
+Model: nb , iterations: 1000 , test iterations: 2000
+Building for evaluation
+******Results after 2000 iterations*****
+accuracy        0.806012383901
+f1              0.770601274009
+precision       0.733638097343
+recall          0.813115361475
+Classification Report:
+
+
+             precision    recall  f1-score   support
+
+    Nontool       0.94      0.86      0.90       197
+       Tool       0.80      0.91      0.86       126
+
+avg / total       0.89      0.88      0.88       323
+
+Evaluation model fit in 709.697 seconds
